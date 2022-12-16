@@ -1,4 +1,11 @@
 git init
 git add kod
-git commit -m "commit1"
+git commit -m "commit"
 git branch -M main
+git remote add origin https://github.com/daniil200497/seventh.git
+git push -u origin77 main
+git add opisanie
+git commit -m "commit2"
+git branch -M main2
+git remote add origin2 https://github.com/daniil200497/seventh.git
+git push -u origin2 main2
