@@ -1,0 +1,4 @@
+git init
+git add kod
+git commit -m "commit1"
+git branch -M main
